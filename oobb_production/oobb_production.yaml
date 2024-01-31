@@ -15,8 +15,8 @@ oobb_production_file:
     index: 2
     file_name: Shaft Adapter
     file_description: "Shaft adapter"
-  - file_source: 3dpr/oobb_wire_03_03_03_ex_basic_3dpr.stl
-    file_render: png/oobb_wire_03_03_03_ex_basic_3dpr.png
+  - file_source: 3dpr/oobb_wire_03_03_06_ex_basic_3dpr.stl
+    file_render: png/oobb_wire_03_03_06_ex_basic_3dpr.png
     file_type: 3dpr
     file_extension: stl
     index: 3
@@ -27,6 +27,13 @@ oobb_production_file:
     file_type: 3dpr
     file_extension: stl
     index: 4
+    file_name: Bearing
+    file_description: "Holder for the 6705 bearing"
+  - file_source: 3dpr/oobb_bearing_plate_03_03_12_6705_ex_no_center_3dpr.stl
+    file_render: png/oobb_bearing_plate_03_03_12_6705_ex_no_center_3dpr.png
+    file_type: 3dpr
+    file_extension: stl
+    index: 5
     file_name: Bearing
     file_description: "Holder for the 6705 bearing"
 oobb_parts:
