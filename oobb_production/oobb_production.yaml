@@ -1,27 +1,27 @@
-name: "OOBB Holder For a Standard Servo (5x3)"
-description: "OOBB Holder For a Standard Servo (5x3)"
+name: "OOBB Holder For a TT Motor (6x3) with a Servo Driver"
+description: "OOBB Holder For a TT Motor  (5x3) with a Servo Driver"
 oobb_production_file:
-  - file_source: 3dpr/oobb_holder_05_03_15_ex_motor_servo_standard_01_3dpr.stl
-    file_render: png/oobb_holder_05_03_15_ex_motor_servo_standard_01_3dpr.png
+  - file_source: 3dpr/oobb_holder_06_03_06_ex_motor_tt_01.stl
+    file_render: png/oobb_holder_06_03_06_ex_motor_tt_01.png
     file_type: 3dpr
     file_extension: stl
     index: 1
     file_name: Main
-    file_description: "Main body piece"
-  - file_source: 3dpr/oobb_holder_05_03_09_ex_motor_servo_standard_01_top_3dpr.stl
-    file_render: png/oobb_holder_05_03_09_ex_motor_servo_standard_01_top_3dpr.png
+    file_description: "Main holder piece"
+  - file_source: 3dpr/oobb_bearing_plate_03_03_12_6705_ex_sandwich_sh_motor_tt_01.stl
+    file_render: png/oobb_bearing_plate_03_03_12_6705_ex_sandwich_sh_motor_tt_01.png
     file_type: 3dpr
     file_extension: stl
     index: 2
-    file_name: Top
-    file_description: "Top spacer piece"
-  - file_source: 3dpr/oobb_bearing_plate_03_03_12_6705_ex_horn_adapter_screws_sh_motor_servo_standard_01_3dpr.stl
-    file_render: png/oobb_bearing_plate_03_03_12_6705_ex_horn_adapter_screws_sh_motor_servo_standard_01_3dpr.png
-    index: 3
+    file_name: Shaft Adapter
+    file_description: "Shaft adapter"
+  - file_source: 3dpr/oobb_wire_03_03_03_ex_basic.stl
+    file_render: png/oobb_wire_03_03_03_ex_basic.png
     file_type: 3dpr
     file_extension: stl
-    file_name: Adapter
-    file_description: "Adapter from OOBB to a servo horn"
+    index: 3
+    file_name: Wire Holder
+    file_description: "Wire holder"
   - file_source: 3dpr/oobb_bearing_plate_03_03_12_6705_ex_no_center_3dpr.stl
     file_render: png/oobb_bearing_plate_03_03_12_6705_ex_no_center_3dpr.png
     file_type: 3dpr
@@ -30,14 +30,23 @@ oobb_production_file:
     file_name: Bearing
     file_description: "Holder for the 6705 bearing"
 oobb_parts:
- - id: hardware_screw_self_tapping_2_mm_10_mm_phillips
-   name: "Screw Self Tapping 2 mm x 10 mm Phillips"
-   quantity: 2
- - id: hardware_screw_socket_cap_3_mm_black_10_mm_hex
-   name: "Screw Socket Cap 3 mm Black x 10 mm Hex"
-   quantity: 4
- - id: hardware_nut_3_mm
-   name: "Nut 3 mm"
-   quantity: 8
+  - id: hardware_screw_self_tapping_2_mm_10_mm_phillips
+    name: "Screw Self Tapping 2 mm x 10 mm Phillips"
+    quantity: 1
+  - id: hardware_screw_socket_cap_3_mm_black_25_mm_hex
+    name: "Screw Socket Cap 3 mm Black x 25 mm Hex"
+    quantity: 2
+  - id: hardware_screw_socket_cap_3_mm_black_20_mm_hex
+    name: "Screw Socket Cap 3 mm Black x 20 mm Hex"   
+    quantity: 2
+  - id: hardware_screw_socket_cap_3_mm_black_12_mm_hex
+    name: "Screw Socket Cap 3 mm Black x 12 mm Hex"   
+    quantity: 4
+  - id: hardware_nut_3_mm
+    name: "Nut 3 mm"
+    quantity: 8
+  - id: hardware_bearing_6700_series_6705_size_25_mm_id_32_mm_od_4_mm_depth
+    name: "Bearing 6705 Size 25 mm ID 32 mm OD 4 mm Depth"
+    quantity: 1
 
 
