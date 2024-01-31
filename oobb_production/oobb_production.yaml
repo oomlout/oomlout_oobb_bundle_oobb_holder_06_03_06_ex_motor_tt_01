@@ -1,22 +1,22 @@
 name: "OOBB Holder For a TT Motor (6x3) with a Servo Driver"
 description: "OOBB Holder For a TT Motor  (5x3) with a Servo Driver"
 oobb_production_file:
-  - file_source: 3dpr/oobb_holder_06_03_06_ex_motor_tt_01.stl
-    file_render: png/oobb_holder_06_03_06_ex_motor_tt_01.png
+  - file_source: 3dpr/oobb_holder_06_03_06_ex_motor_tt_01_3dpr.stl
+    file_render: png/oobb_holder_06_03_06_ex_motor_tt_01_3dpr.png
     file_type: 3dpr
     file_extension: stl
     index: 1
     file_name: Main
     file_description: "Main holder piece"
-  - file_source: 3dpr/oobb_bearing_plate_03_03_12_6705_ex_sandwich_sh_motor_tt_01.stl
-    file_render: png/oobb_bearing_plate_03_03_12_6705_ex_sandwich_sh_motor_tt_01.png
+  - file_source: 3dpr/oobb_bearing_plate_03_03_12_6705_ex_sandwich_sh_motor_tt_01_3dpr.stl
+    file_render: png/oobb_bearing_plate_03_03_12_6705_ex_sandwich_sh_motor_tt_01_3dpr.png
     file_type: 3dpr
     file_extension: stl
     index: 2
     file_name: Shaft Adapter
     file_description: "Shaft adapter"
-  - file_source: 3dpr/oobb_wire_03_03_03_ex_basic.stl
-    file_render: png/oobb_wire_03_03_03_ex_basic.png
+  - file_source: 3dpr/oobb_wire_03_03_03_ex_basic_3dpr.stl
+    file_render: png/oobb_wire_03_03_03_ex_basic_3dpr.png
     file_type: 3dpr
     file_extension: stl
     index: 3
