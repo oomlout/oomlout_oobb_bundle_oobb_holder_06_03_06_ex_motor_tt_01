@@ -438,12 +438,13 @@
     depth: 16
     extra: motor_tt_01
     height: 3
+    m: '#'
     nut: true
     overhang: true
     pos:
     - 8.0
     - -18.0
-    - 13.0
+    - 15.0
     radius_name: m3
     rot:
     - 0
@@ -460,12 +461,13 @@
     depth: 16
     extra: motor_tt_01
     height: 3
+    m: '#'
     nut: true
     overhang: true
     pos:
     - -8.0
     - 18.0
-    - 13.0
+    - 15.0
     radius_name: m3
     rot:
     - 0
@@ -482,12 +484,13 @@
     depth: 16
     extra: motor_tt_01
     height: 3
+    m: '#'
     nut: true
     overhang: true
     pos:
     - -8.0
     - -18.0
-    - -3.0
+    - -1.0
     radius_name: m3
     rot:
     - 0
@@ -504,12 +507,13 @@
     depth: 16
     extra: motor_tt_01
     height: 3
+    m: '#'
     nut: true
     overhang: true
     pos:
     - 8.0
     - 18.0
-    - -3.0
+    - -1.0
     radius_name: m3
     rot:
     - 0

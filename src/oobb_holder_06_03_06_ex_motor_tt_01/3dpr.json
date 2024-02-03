@@ -787,7 +787,7 @@
         "pos": [
             8.0,
             -18.0,
-            13.0
+            15.0
         ],
         "shape": "oobb_screw_countersunk",
         "rot": [
@@ -798,7 +798,8 @@
         "depth": 16,
         "radius_name": "m3",
         "nut": true,
-        "overhang": true
+        "overhang": true,
+        "m": "#"
     },
     {
         "type": "n",
@@ -814,7 +815,7 @@
         "pos": [
             -8.0,
             18.0,
-            13.0
+            15.0
         ],
         "shape": "oobb_screw_countersunk",
         "rot": [
@@ -825,7 +826,8 @@
         "depth": 16,
         "radius_name": "m3",
         "nut": true,
-        "overhang": true
+        "overhang": true,
+        "m": "#"
     },
     {
         "type": "n",
@@ -841,7 +843,7 @@
         "pos": [
             -8.0,
             -18.0,
-            -3.0
+            -1.0
         ],
         "shape": "oobb_screw_countersunk",
         "rot": [
@@ -852,7 +854,8 @@
         "depth": 16,
         "radius_name": "m3",
         "nut": true,
-        "overhang": true
+        "overhang": true,
+        "m": "#"
     },
     {
         "type": "n",
@@ -868,7 +871,7 @@
         "pos": [
             8.0,
             18.0,
-            -3.0
+            -1.0
         ],
         "shape": "oobb_screw_countersunk",
         "rot": [
@@ -879,7 +882,8 @@
         "depth": 16,
         "radius_name": "m3",
         "nut": true,
-        "overhang": true
+        "overhang": true,
+        "m": "#"
     },
     {
         "type": "n",
