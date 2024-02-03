@@ -760,16 +760,16 @@
             ]
         ],
         "screws": false,
-        "shape": "oobb_motor_stepper_nema_17",
+        "shape": "oobb_motor_tt_01",
         "overhang": true,
         "pos": [
             0,
             0,
-            6
+            0
         ],
         "rot": [
             0,
-            180,
+            0,
             0
         ]
     },
@@ -798,8 +798,7 @@
         "depth": 16,
         "radius_name": "m3",
         "nut": true,
-        "overhang": true,
-        "m": "#"
+        "overhang": true
     },
     {
         "type": "n",
@@ -826,8 +825,7 @@
         "depth": 16,
         "radius_name": "m3",
         "nut": true,
-        "overhang": true,
-        "m": "#"
+        "overhang": true
     },
     {
         "type": "n",
@@ -854,8 +852,7 @@
         "depth": 16,
         "radius_name": "m3",
         "nut": true,
-        "overhang": true,
-        "m": "#"
+        "overhang": true
     },
     {
         "type": "n",
@@ -882,8 +879,7 @@
         "depth": 16,
         "radius_name": "m3",
         "nut": true,
-        "overhang": true,
-        "m": "#"
+        "overhang": true
     },
     {
         "type": "n",
