@@ -68,6 +68,7 @@
     - -22.5
     - 0
     - -3
+    screws: false
     shape: oobb_plate
     thickness: 6
     type: p
@@ -171,6 +172,7 @@
     - 0
     - -3
     radius_name: m6
+    screws: false
     shape: oobb_holes
     thickness: 6
     type: p
@@ -266,6 +268,7 @@
     - 0
     - -3
     radius_name: m3
+    screws: false
     shape: oobb_holes
     thickness: 6
     type: n
@@ -344,6 +347,7 @@
     - -3
     radius_name: m3
     rot_y: 180
+    screws: false
     shape: oobb_screw_socket_cap
     thickness: 6
     type: n
@@ -422,6 +426,7 @@
     - 0
     - 180
     - 0
+    screws: false
     shape: oobb_motor_stepper_nema_17
     thickness: 6
     type: n
@@ -433,7 +438,6 @@
     depth: 16
     extra: motor_tt_01
     height: 3
-    m: '#'
     nut: true
     overhang: true
     pos:
@@ -456,7 +460,6 @@
     depth: 16
     extra: motor_tt_01
     height: 3
-    m: '#'
     nut: true
     overhang: true
     pos:
@@ -479,7 +482,6 @@
     depth: 16
     extra: motor_tt_01
     height: 3
-    m: '#'
     nut: true
     overhang: true
     pos:
@@ -502,7 +504,6 @@
     depth: 16
     extra: motor_tt_01
     height: 3
-    m: '#'
     nut: true
     overhang: true
     pos:
