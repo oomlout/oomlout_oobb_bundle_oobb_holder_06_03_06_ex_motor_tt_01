@@ -409,7 +409,7 @@
     pos:
     - 0
     - 0
-    - 0
+    - 6
     pos_item:
     - 0
     - 0
@@ -418,84 +418,104 @@
     - -22.5
     - 0
     - -3
+    rot:
+    - 0
+    - 180
+    - 0
     shape: oobb_motor_stepper_nema_17
     thickness: 6
     type: n
     width: 6
 -   bearing: '6705'
-    depth: 12
+    clearance:
+    - top
+    - bottom
+    depth: 16
     extra: motor_tt_01
     height: 3
+    m: '#'
     nut: true
     overhang: true
     pos:
     - 8.0
     - -18.0
-    - 10.5
+    - 13.0
     radius_name: m3
     rot:
     - 0
     - 0
     - 0
     shape: oobb_screw_countersunk
-    thickness: 12
+    thickness: 16
     type: n
     width: 6
 -   bearing: '6705'
-    depth: 12
+    clearance:
+    - top
+    - bottom
+    depth: 16
     extra: motor_tt_01
     height: 3
+    m: '#'
     nut: true
     overhang: true
     pos:
     - -8.0
     - 18.0
-    - 10.5
+    - 13.0
     radius_name: m3
     rot:
     - 0
     - 0
     - 0
     shape: oobb_screw_countersunk
-    thickness: 12
+    thickness: 16
     type: n
     width: 6
 -   bearing: '6705'
-    depth: 12
+    clearance:
+    - top
+    - bottom
+    depth: 16
     extra: motor_tt_01
     height: 3
+    m: '#'
     nut: true
     overhang: true
     pos:
     - -8.0
     - -18.0
-    - -1.5
+    - -3.0
     radius_name: m3
     rot:
     - 0
     - 180
     - 0
     shape: oobb_screw_countersunk
-    thickness: 12
+    thickness: 16
     type: n
     width: 6
 -   bearing: '6705'
-    depth: 12
+    clearance:
+    - top
+    - bottom
+    depth: 16
     extra: motor_tt_01
     height: 3
+    m: '#'
     nut: true
     overhang: true
     pos:
     - 8.0
     - 18.0
-    - -1.5
+    - -3.0
     radius_name: m3
     rot:
     - 0
     - 180
     - 0
     shape: oobb_screw_countersunk
-    thickness: 12
+    thickness: 16
     type: n
     width: 6
 -   extra: motor_tt_01
