@@ -15,8 +15,8 @@ oobb_production_file:
     index: 2
     file_name: Shaft Adapter
     file_description: "Shaft adapter"
-  - file_source: 3dpr/oobb_wire_03_03_04_ex_basic_3dpr.stl
-    file_render: png/oobb_wire_03_03_04_ex_basic_3dpr.png
+  - file_source: 3dpr/oobb_wire_03_03_04_ex_basic_extra_mm_3dpr.stl
+    file_render: png/oobb_wire_03_03_04_ex_basic_extra_mm__3dpr.png
     file_type: 3dpr
     file_extension: stl
     index: 3
